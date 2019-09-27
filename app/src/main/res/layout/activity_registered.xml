@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+    <EditText
+        android:id="@+id/edit_id"
+        android:padding="20dp"
+        android:layout_marginTop="180dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_edit"
+        android:textSize="20sp"
+        android:lines="1"
+        android:maxLines="1"
+        android:inputType="text"
+        android:maxLength="20"
+        android:digits="0123456789qwertyuioplkjhgfdsazxcvbnm"
+        android:hint="请输入账号"/>
+    <EditText
+        android:id="@+id/edit_password"
+        android:layout_marginTop="10dp"
+        android:padding="20dp"
+        android:textSize="20sp"
+        android:background="@drawable/shape_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLength="20"
+        android:hint="请输入密码"
+        android:inputType="textPassword"/>
+    <Button
+        android:layout_marginTop="20sp"
+        android:id="@+id/registered_button"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20sp"
+        android:text="注册"
+        android:background="@drawable/shape_edit"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

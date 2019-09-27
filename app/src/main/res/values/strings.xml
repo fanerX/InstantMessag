@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">消息</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_content">
+        难受就是难受…不要让开心变成一种负担…
+        只有除了爱情什么都不缺的人，才有底气去等待爱情。
+        故乡的云。上古的玉。随手的诗。十九岁的你。
+        你眼中的星海灿烂 是我不曾见过的世外桃源
+        没有回忆就去创造回忆，没有道路就去开辟道路。
+        承诺常常很像蝴蝶，美丽的盘旋后就不见了。
+        锄禾日当午，贺题好辛苦，对着博客园，一贺一上午，贺了一上午，还要贺下午，不贺没前途，只能去跑路。
+
+    </string>
+    <string name="title_activity_tabbed_test">TabbedTestActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="string_1">你总是这样轻言放弃的话，无论多久都只会原地踏步</string>
+    <string name="string_2">生命在于折腾，生命不息，折腾不止</string>
+    <string name="string_3">你什么时候放下，什么时候就没有烦恼</string>
+    <string name="string_4">有一种无奈叫做，你明明是只候鸟，却喜欢上只能给你冬天的人。</string>
+    <string name="string_5">积极者相信只有推动自己才能推动世界，只要推动自己就能推动世界。</string>
+    <string name="string_6">找不到路，就自己走一条出来。</string>
+    <string name="string_7">没有回忆就去创造回忆，没有道路就去开辟道路。</string>
+    <string name="string_8">穿山甲到底说了什么？</string>
+    <string name="string_9">一瓶250ml的吊水，一共是3111滴。</string>
+    <string name="string_10">这不是神经病，是理想</string>
+    <string name="string_11">有些人，一旦遇见，便一眼万年；有些心动，一旦开始，便覆水难收。</string>
+    <string name="string_12">愿人生如剑、立起寒光四射、躺倒四射寒光</string>
+
+
+</resources>

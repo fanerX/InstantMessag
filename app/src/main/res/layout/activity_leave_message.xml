@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp">
+        <Button
+            android:id="@+id/cancel_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="取消"/>
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/leave_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="留言"/>
+    </LinearLayout>
+    <EditText
+        android:padding="30dp"
+        android:gravity="top"
+        android:id="@+id/edit_leave_message"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="@string/test_content"/>
+
+
+
+</LinearLayout>
